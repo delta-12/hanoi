@@ -1,0 +1,16 @@
+Objective: Move all disks from the left most rod to the right most rod.
+
+The rules are simple...
+
+1. Only one disk may be moved at a time.
+2. Each move consists of taking the upper disk from one of the stacks and placing it on top of another stack or on an empty rod.
+3. No disk may be placed on top of a disk that is smaller than it.
+
+There are three rods.  The game begins with all disks stacked in descending order on the left most rod.  To move a disk from one rod to another, enter the number of the rod the disk is currently on, followed by a SPACE, then number of the rod you wish to move the disk to, and then ENTER.
+
+For example...
+
+To move the top disk from the left most rod to the middle rod the input is as follows:
+1 SPACE 2 ENTER
+
+Best of luck!
