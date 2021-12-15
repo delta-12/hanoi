@@ -7,8 +7,8 @@
 1. Install `gcc` and `make`
 2. Clone repository
 
-   `git clone https://github.com/delta-12/Portfolio_Project.git`
+   `git clone https://github.com/delta-12/hanoi.git`
 
 3. Change directory to clone repository and run make
 
-   `cd Portfolio_Project && make`
+   `cd hanoi && make`
