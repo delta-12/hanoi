@@ -9,10 +9,6 @@
 
    `git clone https://github.com/delta-12/Portfolio_Project.git`
 
-3. Change directory to clone repository and make `bin` and `obj` directories
+3. Change directory to clone repository and run make
 
-   `cd Portfolio_Project && mkdir bin obj`
-
-4. Run make
-
-   `make`
+   `cd Portfolio_Project && make`
